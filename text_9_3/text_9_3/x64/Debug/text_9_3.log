@@ -1,0 +1,5 @@
+﻿  text.c
+D:\code\text_9_3\text_9_3\text.c(42,6): warning C4047: “return”:“char *”与“char”的间接级别不同
+D:\code\text_9_3\text_9_3\text.c(53,2): warning C4047: “return”:“char *”与“const char”的间接级别不同
+D:\code\text_9_3\text_9_3\text.c(39,10): warning C4090: “初始化”: 不同的“const”限定符
+  text_9_3.vcxproj -> D:\code\text_9_3\x64\Debug\text_9_3.exe
