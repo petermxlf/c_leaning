@@ -1,0 +1,19 @@
+﻿  contact.c
+D:\code\text_9_5\text_9_5\contact.c(13,15): warning C4047: “==”:“PeoInfo [100]”与“int”的间接级别不同
+D:\code\text_9_5\text_9_5\contact.c(18,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\code\text_9_5\text_9_5\contact.c(18,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\code\text_9_5\text_9_5\contact.c(18,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\code\text_9_5\text_9_5\contact.c(18,10): message : 此参数用作缓冲区大小
+D:\code\text_9_5\text_9_5\contact.c(22,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\code\text_9_5\text_9_5\contact.c(22,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\code\text_9_5\text_9_5\contact.c(22,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\code\text_9_5\text_9_5\contact.c(22,10): message : 此参数用作缓冲区大小
+D:\code\text_9_5\text_9_5\contact.c(24,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\code\text_9_5\text_9_5\contact.c(24,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\code\text_9_5\text_9_5\contact.c(24,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\code\text_9_5\text_9_5\contact.c(24,10): message : 此参数用作缓冲区大小
+D:\code\text_9_5\text_9_5\contact.c(26,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\code\text_9_5\text_9_5\contact.c(26,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\code\text_9_5\text_9_5\contact.c(26,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\code\text_9_5\text_9_5\contact.c(26,10): message : 此参数用作缓冲区大小
+  text_9_5.vcxproj -> D:\code\text_9_5\x64\Debug\contact.exe
