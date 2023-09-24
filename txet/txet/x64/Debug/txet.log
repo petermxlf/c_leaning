@@ -1,0 +1,3 @@
+﻿  arr717.c
+shut.obj : error LNK2005: main 已经在 arr717.obj 中定义
+D:\code\txet\x64\Debug\txet.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
